@@ -1,11 +1,38 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1131" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#66B2FF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="60" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Volume of sphere&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=1;" parent="8" vertex="1">
+                    <mxGeometry x="20" y="35" width="220" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;formula: V=4/3&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;π&lt;/span&gt;&lt;span style=&quot;font-family: sans-serif; font-size: 14px; text-align: start;&quot;&gt;³&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;div style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out 0s; font-family: STIXGeneral, Times, &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;lr-fy-ecv lr-fy-eq-elem&quot;&gt;&lt;div style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out 0s;&quot; class=&quot;lr-fy-ecv lr-fy-eq-elem&quot;&gt;&lt;br&gt;&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=27;rounded=1;" parent="8" vertex="1">
+                    <mxGeometry x="25" y="100" width="170" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;radius&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=25;rounded=1;" parent="8" vertex="1">
+                    <mxGeometry x="10" y="225" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="8" vertex="1">
+                    <mxGeometry x="75" y="240" width="70" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;fontSize=16;rounded=1;" parent="8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="75" y="260" as="sourcePoint"/>
+                        <mxPoint x="75" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="&lt;span id=&quot;docs-internal-guid-5bcae333-7fff-8e88-4539-eeaf8cc828ad&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Consolas, sans-serif; color: rgb(230, 237, 243); background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; vertical-align: baseline;&quot;&gt;&amp;nbsp;Calculate&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="8" vertex="1">
+                    <mxGeometry x="35" y="310" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;font class=&quot;custom-cursor-default-hover&quot; style=&quot;font-size: 15px;&quot;&gt;the Volume is: __ cm&lt;/font&gt;&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;font-family: sans-serif; font-size: 14px; text-align: start;&quot;&gt;³&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;rounded=1;" parent="8" vertex="1">
+                    <mxGeometry x="5" y="380" width="170" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
